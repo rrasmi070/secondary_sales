@@ -1,0 +1,5 @@
+*.cpython-38.pyc
+/0001_initial.cpython-39.pyc
+/0002_article_name.cpython-39.pyc
+/0003_delete_article.cpython-39.pyc
+/__init__.cpython-39.pyc

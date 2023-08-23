@@ -1,0 +1,17 @@
+/__init__.cpython-38.pyc
+/admin.cpython-38.pyc
+/apps.cpython-38.pyc
+/models.cpython-38.pyc
+/urls.cpython-38.pyc
+/views.cpython-38.pyc
+/serializers.cpython-38.pyc
+/serializers.cpython-38.pyc~main
+/__init__.cpython-39.pyc
+/admin.cpython-39.pyc
+/apps.cpython-39.pyc
+/models.cpython-39.pyc
+/serializers.cpython-39.pyc
+/urls.cpython-39.pyc
+/views.cpython-39.pyc
+*.cpython-38.pyc
+*.cpython-39.pyc

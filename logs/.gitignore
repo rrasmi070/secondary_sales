@@ -1,0 +1,17 @@
+*.log
+/error_11_03_2022.log.1
+/error_11_03_2022.log.2
+/error_11_03_2022.log.3
+/error_11_03_2022.log.4
+/info_11_03_2022.log.1
+/info_11_03_2022.log.2
+/info_11_03_2022.log.3
+/info_11_03_2022.log.4
+/info_01_04_2022.log.1
+/info_01_04_2022.log.2
+/info_09_05_2022.log.1
+/info_09_05_2022.log.2
+/info_09_05_2022.log.3
+/info_09_05_2022.log.4
+/info_10_05_2022.log.1
+/info_10_05_2022.log.2

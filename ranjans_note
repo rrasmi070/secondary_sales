@@ -1,0 +1,31 @@
+python -m venv venv
+source ./venv/bin/activate
+. venv/bin/activate
+
+=================local========================
+DATABASES = {
+    'default': {
+        'ENGINE': 'django.db.backends.mysql',
+        'NAME': 'secondary_sales',
+        'USER': 'debian-sys-maint',
+        'PASSWORD': 'jC02AGdIafsD5rPs',
+        'HOST': 'localhost',
+        'PORT': '3306',
+    }
+}
+
+
+=================Server========================
+DATABASES = {
+    'default': {
+        'ENGINE': 'django.db.backends.mysql',
+        'NAME': 'secondary_sales_gpi',
+        'USER': 'sec_gpi',
+        'PASSWORD': 'Triazine@123',
+        'HOST': '119.82.68.244',
+        'PORT': '3306',
+    }
+}
+
+find . -path "*/migrations/*.py" -not -name "__init__.py" -delete
+find . -path "*/migrations/*.pyc"  -delete
